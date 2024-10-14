@@ -1,0 +1,63 @@
+[00:00:41] [Server thread/INFO]: LukeyLuke_00 has made the advancement [Local Brewery]
+[00:00:41] [Render thread/INFO]: [CHAT] LukeyLuke_00 has made the advancement [Local Brewery]
+[00:00:41] [Render thread/INFO]: Loaded 186 advancements
+[00:00:52] [Render thread/INFO]: Loaded entity minecraft:potion
+[00:02:49] [Server thread/INFO]: LukeyLuke_00 has made the advancement [Hot Stuff]
+[00:02:49] [Render thread/INFO]: [CHAT] LukeyLuke_00 has made the advancement [Hot Stuff]
+[00:02:49] [Render thread/INFO]: Loaded 187 advancements
+[00:04:21] [Server thread/INFO]: LukeyLuke_00 has made the advancement [We Need to Go Deeper]
+[00:04:21] [Render thread/INFO]: Stopping worker threads
+[00:04:21] [Render thread/INFO]: Started 10 worker threads
+[00:04:21] [Render thread/INFO]: Stopping worker threads
+[00:04:21] [Render thread/INFO]: Started 10 worker threads
+[00:04:21] [Render thread/INFO]: [CHAT] LukeyLuke_00 has made the advancement [We Need to Go Deeper]
+[00:04:21] [Render thread/INFO]: Loaded 205 advancements
+[00:04:22] [Render thread/INFO]: Loaded entity minecraft:hoglin
+[00:04:22] [Render thread/INFO]: Loaded entity minecraft:piglin
+[00:04:22] [Render thread/INFO]: Loaded 205 advancements
+[00:04:23] [Render thread/INFO]: Loaded entity minecraft:strider
+[00:04:23] [Render thread/INFO]: Loaded entity minecraft:zombified_piglin
+[00:06:59] [Render thread/INFO]: Loaded 205 advancements
+[00:07:25] [Render thread/INFO]: Loaded 207 advancements
+[00:07:52] [Render thread/INFO]: Loaded 216 advancements
+[00:08:10] [Render thread/INFO]: Loaded 216 advancements
+[00:08:23] [Render thread/INFO]: Loaded 222 advancements
+[00:11:23] [Render thread/INFO]: Loaded 223 advancements
+[00:13:29] [Render thread/INFO]: Stopping worker threads
+[00:13:29] [Render thread/INFO]: Started 10 worker threads
+[00:13:29] [Render thread/INFO]: Stopping worker threads
+[00:13:29] [Render thread/INFO]: Started 10 worker threads
+[00:13:30] [Server thread/INFO]: LukeyLuke_00 was slain by Piglin
+[00:13:30] [Render thread/INFO]: [CHAT] LukeyLuke_00 was slain by Piglin
+[00:13:32] [Render thread/INFO]: [CHAT] You have no home bed or charged respawn anchor, or it was obstructed
+[00:13:36] [Server thread/INFO]: Saving and pausing game...
+[00:13:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[00:13:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[00:13:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[00:13:37] [Server thread/INFO]: LukeyLuke_00 lost connection: Disconnected
+[00:13:37] [Server thread/INFO]: LukeyLuke_00 left the game
+[00:13:37] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:13:37] [Server thread/INFO]: Stopping server
+[00:13:37] [Server thread/INFO]: Saving players
+[00:13:37] [Server thread/INFO]: Saving worlds
+[00:13:37] [Server thread/INFO]: ServerLevel[New World]/minecraft:overworld: waiting for 1916 chunks to unload
+[00:13:37] [Server thread/INFO]: ServerLevel[New World]/minecraft:the_nether: waiting for 841 chunks to unload
+[00:13:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[00:13:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[00:13:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[00:13:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[00:13:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:13:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:13:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:13:37] [C2ME Storage #3/INFO]: Storage thread Thread[#150,C2ME Storage #3,7,main] stopped
+[00:13:37] [C2ME Storage #2/INFO]: Storage thread Thread[#149,C2ME Storage #2,7,main] stopped
+[00:13:37] [C2ME Storage #1/INFO]: Storage thread Thread[#148,C2ME Storage #1,7,main] stopped
+[00:13:38] [C2ME Storage #6/INFO]: Storage thread Thread[#166,C2ME Storage #6,7,main] stopped
+[00:13:38] [C2ME Storage #5/INFO]: Storage thread Thread[#165,C2ME Storage #5,7,main] stopped
+[00:13:38] [C2ME Storage #4/INFO]: Storage thread Thread[#164,C2ME Storage #4,7,main] stopped
+[00:13:38] [C2ME Storage #9/INFO]: Storage thread Thread[#170,C2ME Storage #9,7,main] stopped
+[00:13:38] [C2ME Storage #8/INFO]: Storage thread Thread[#169,C2ME Storage #8,7,main] stopped
+[00:13:38] [C2ME Storage #7/INFO]: Storage thread Thread[#168,C2ME Storage #7,7,main] stopped
+[00:13:38] [Render thread/INFO]: Stopping worker threads
+[00:13:39] [Render thread/INFO]: Stopping!
+[00:13:39] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

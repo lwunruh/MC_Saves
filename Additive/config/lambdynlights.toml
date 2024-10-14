@@ -1,0 +1,101 @@
+mode = "fancy"
+
+[light_sources]
+	water_sensitive_check = false
+	block_entities = false
+	entities = true
+	self = true
+	tnt = "simple"
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				bee = true
+				axolotl = true
+				egg = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				llama = true
+				bat = true
+				frog = true
+				husk = true
+				hoglin = true
+				camel = true
+				rabbit = true
+				firework_rocket = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				shulker = true
+				salmon = true
+				wither_skeleton = true
+				wandering_trader = true
+				piglin_brute = true
+				goat = true
+				item_frame = true
+				horse = true
+				phantom = true
+				minecart = true
+				leash_knot = true
+				llama_spit = true
+				glow_squid = true
+				squid = true
+				shulker_bullet = true
+				snowball = true
+				tnt = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				chicken = true
+				sniffer = true
+				trader_llama = true
+				donkey = true
+				chest_minecart = true
+				tropical_fish = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				area_effect_cloud = true
+				zombified_piglin = true
+				piglin = true
+				blaze = true
+				endermite = true
+				cat = true
+				zombie = true
+				ender_pearl = true
+				ghast = true
+				sheep = true
+				fireball = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				wolf = true
+				villager = true
+				skeleton_horse = true
+				fishing_bobber = true
+				zombie_villager = true
+				chest_boat = true
+				boat = true
+				small_fireball = true
+				strider = true
+				polar_bear = true
+				hopper_minecart = true
+				painting = true
+				cave_spider = true
+				witch = true
+				cod = true
+				snow_golem = true
+				spider = true
+
